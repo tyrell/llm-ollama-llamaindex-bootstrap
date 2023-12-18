@@ -1,0 +1,105 @@
+python main.py "retrieve invoice number"
+
+61356291
+==================================================
+Time to retrieve answer: 94.57260256999871
+
+
+python main.py "retrieve invoice date"
+
+09/06/2012
+==================================================
+Time to retrieve answer: 98.17322501199669
+
+
+python main.py "retrieve three values: client name, complete address and tax ID"
+
+Client Name: Rodriguez-Stevens
+Complete Address: 2280 Angela Plain, Hortonshire, MS 93248
+Tax ID: 939-98-8477
+==================================================
+Time to retrieve answer: 117.18188980000559
+
+
+python main.py "retrieve three values: seller name, complete address and tax ID"
+
+Seller Name: Chapman, Kim and Green
+Complete Address: 64731 James Branch, Smithmouth, NC 26872, USA
+Tax ID: 949-84-9105
+==================================================
+Time to retrieve answer: 103.867440025002
+
+
+python main.py "retrieve invoice iban"
+
+GB50ACIE59715038217063
+==================================================
+Time to retrieve answer: 96.29626568200183
+
+
+python main.py "retrieve two values for the second invoice item: net price and gross worth"
+
+The net price for the second invoice item is $28.08 and the gross worth is $123.55.
+==================================================
+Time to retrieve answer: 98.65136093599722
+
+
+python main.py "retrieve gross worth value for each invoice item"
+
+66.0, 123.55, 8.25, 14.29
+==================================================
+Time to retrieve answer: 106.47106381098274
+
+
+python main.py "retrieve names of invoice items"
+
+Wine Glasses Goblets Pair Clear Glass, With Hooks Stemware Storage Multiple Uses Iron Wine Rack Hanging Glass, Replacement Corkscrew Parts Spiral Worm Wine Opener Bottle Houdini, HOME ESSENTIALS GRADIENT STEMLESS WINE GLASSES SET OF 4 20 FL OZ (591 ml) NEW
+==================================================
+Time to retrieve answer: 117.21840551000787
+
+
+python main.py "retrieve invoice total info"
+
+The total invoice amount is $212.09, with a net worth of $192.81 and VAT of $19.28.
+==================================================
+Time to retrieve answer: 97.72127992598689
+
+
+python main.py "retrieve three values: total gross worth, invoice number and invoice date"
+
+Total gross worth: $212.09, Invoice number: 61356291, Invoice date: 09/06/2012
+==================================================
+Time to retrieve answer: 110.59500618302263
+
+
+python main.py "Who are you?"
+
+Answer:
+I am an AI language model, designed to assist and provide information based on the context provided. In this case, the context is related to an invoice from Chapman, Kim and Green to Rodriguez-Stevens for various items such as wine glasses, stemware storage, corkscrew parts, and stemless wine glasses.
+
+Here are some key details from the invoice:
+- Invoice number: 61356291
+- Date of issue: 09/06/2012
+- Seller: Chapman, Kim and Green
+- Buyer: Rodriguez-Stevens
+- VAT rate: 10%
+
+The invoice includes several items with their respective quantities, unit measures (UM), net prices, net worth, gross worth, and taxes. The summary section provides the total net worth, VAT amount, and gross worth of the invoice.
+==================================================
+Time to retrieve answer: 37.36918904201593
+
+
+python main.py "Please summarize this invoice document."
+
+Answer:
+This invoice is issued by Chapman, Kim and Green on 09/06/2012 to Rodriguez-Stevens. The total net worth of the items sold is $192.81, with a VAT rate of 10%. The gross worth of the items after adding VAT is $212.09. The items purchased include Wine Glasses Goblets Pair Clear Glass, With Hooks Stemware Storage Multiple Uses Iron Wine Rack Hanging Glass, Replacement Corkscrew Parts Spiral Worm Wine Opener Bottle Houdini, and HOME ESSENTIALS GRADIENT STEMLESS WINE GLASSES SET OF 4 20 FL OZ (591 ml) NEW.
+==================================================
+Time to retrieve answer: 27.147464457899332
+
+
+python main.py "What's a Wine Glasses Goblets?"
+
+Answer:
+A Wine Glasses Goblets is a set of wine glasses with goblet-style bowls, designed for holding and drinking wine. These glasses typically have a large, round bowl that narrows towards the top, providing a generous surface area for swirling and sniffing the wine's aromas. They are often used for red wines, as their shape allows for better aeration of the wine, which can enhance its flavors and aromas.
+==================================================
+Time to retrieve answer: 21.826263291062787
