@@ -1,4 +1,4 @@
-# Retrieve-Augment Generative (RAG) Template Application
+# Retrieval-Augmented Generation (RAG) Template Application
 
 Designed for offline use, this RAG application template is based on Andrej Baranovskij's tutorials. It offers a starting point for building your own local RAG pipeline, independent of online APIs and cloud-based LLM services like OpenAI. This empowers developers to experiment and deploy RAG applications in controlled environments.
 
