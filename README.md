@@ -2,6 +2,8 @@
 
 Designed for offline use, this RAG application template is based on Andrej Baranovskij's tutorials. It offers a starting point for building your own local RAG pipeline, independent of online APIs and cloud-based LLM services like OpenAI. This empowers developers to experiment and deploy RAG applications in controlled environments.
 
+A fullstack UI application generated using [create-llama](https://blog.llamaindex.ai/create-llama-a-command-line-tool-to-generate-llamaindex-apps-8f7683021191) and customised for this project can be found at https://github.com/tyrell/llm-ollama-llamaindex-bootstrap-ui
+
 ## The Stack
 
 This RAG application runs entirely offline, utilizing your local CPU to generate/retrieve/rank responses without needing internet access. This RAG deployment relies solely on your local CPU for computation. Please note that processing large datasets or using resource-intensive models might slow down performance.
