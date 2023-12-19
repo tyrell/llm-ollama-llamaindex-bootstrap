@@ -11,7 +11,7 @@ A fullstack UI application generated using [create-llama](https://blog.llamainde
 This RAG application runs entirely offline, utilizing your local CPU to generate/retrieve/rank responses without needing internet access. This RAG deployment relies solely on your local CPU for computation. Please note that processing large datasets or using resource-intensive models might slow down performance.
 
 1. Large Language Model - We use Ollama (https://ollama.ai/) to run our LLM locally. Any model supported by Ollama can be configured to be used using the config.yml file found in this application. 
-2. Vector Store - We use Weaviate (https://weaviate.io) as the Vector Store. We run Weaviate as a Docker container The URL of the Weaviate instance can be configured using the config.yml file.
+2. Vector Store - We use Weaviate (https://weaviate.io) as the Vector Store. We run Weaviate as a Docker container. The URL of the Weaviate instance can be configured using the config.yml file.
 3. Index - We use LlamaIndex (https://www.llamaindex.ai) as the core of this RAG application acting as the index of our private data structures. The sample code provided by the template ingests a file into the index. 
 4. Vector Embeddings - We use Langchain (https://www.langchain.com) and HuggingFace (https://huggingface.co) to maintain a local embedding model.
 
