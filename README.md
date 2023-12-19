@@ -4,6 +4,8 @@ Designed for offline use, this RAG application template is based on Andrej Baran
 
 A fullstack UI application generated using [create-llama](https://blog.llamaindex.ai/create-llama-a-command-line-tool-to-generate-llamaindex-apps-8f7683021191) and customised for this project can be found at https://github.com/tyrell/llm-ollama-llamaindex-bootstrap-ui
 
+[My blog post](https://www.tyrell.co/2023/12/weaving-path-to-relevance-leveraging.html) provides more context, motivation and thinking behind these projects.
+
 ## The Stack
 
 This RAG application runs entirely offline, utilizing your local CPU to generate/retrieve/rank responses without needing internet access. This RAG deployment relies solely on your local CPU for computation. Please note that processing large datasets or using resource-intensive models might slow down performance.
